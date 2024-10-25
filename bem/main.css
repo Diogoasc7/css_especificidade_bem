@@ -1,34 +1,15 @@
 .form {
-    margin: 40px;
+  margin: 40px;
 }
-
 .form__control {
-    margin-bottom: 16px;
-    font-family: sans-serif;
+  margin-bottom: 16px;
+  font-family: sans-serif;
 }
-
 .form__submit {
-    cursor: pointer;
+  cursor: pointer;
 }
-
 .form__submit--sending {
-
-    cursor: wait;
+  cursor: wait;
 }
 
-/*
-Vantagens da Metodologia BEM
-Organização e Clareza: Os nomes das classes são estruturados de maneira lógica, tornando o código mais fácil de ler e entender.
-
-Reutilização de Código: Os blocos e elementos podem ser reutilizados em diferentes partes do projeto sem colidir com outros estilos, devido à sua nomenclatura única.
-
-Facilidade na Manutenção: Com a separação clara de blocos, elementos e modificadores, é mais fácil encontrar e alterar estilos específicos sem afetar o restante do layout.
-
-Escalabilidade: A BEM é ideal para grandes projetos, pois facilita a adição de novos componentes e a modificação de estilos de forma não invasiva.
-
-Resumo da Sintaxe BEM
-Bloco: .bloco
-Elemento: .bloco__elemento
-Modificador: .bloco__elemento--modificador
-Com a metodologia BEM, o código HTML e CSS se torna mais modular e previsível, facilitando tanto o desenvolvimento quanto a manutenção a longo prazo.
-*/
+/*# sourceMappingURL=main.css.map */
